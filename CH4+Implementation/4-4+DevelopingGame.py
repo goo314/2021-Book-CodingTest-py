@@ -14,7 +14,7 @@ count = 1
 while True:
     move = False
     visit[a][b] = 1
-    for i in range(4):
+    for i in range(1, 5):
         t = (d+i)%4
         na = a+dx[t]
         nb = b+dy[t]
