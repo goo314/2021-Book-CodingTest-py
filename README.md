@@ -33,5 +33,8 @@
     * DFS [5-8 DFS.py](/CH5+DFS+BFS/5-8+DFS.py)
     * BFS [5-9 BFS.py](/CH5+DFS+BFS/5-9+BFS.py)
 * 음료수 얼려먹기 [5-10 FreezingBeverage.py](/CH5+DFS+BFS/5-10+FreezingBeverage.py)
+* 미로탈출 [5-11 Maze.py](/CH5+DFS+BFS/5-11+Maze.py)
 
 <hr>
+
+#### CHAPTER 6 Sorting 
