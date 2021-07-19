@@ -38,3 +38,11 @@
 <hr>
 
 #### CHAPTER 6 Sorting 
+* 정렬알고리즘
+    * 선택정렬 [6-1 SelectionSort.py](/CH6+Sorting/6-1+SelectionSort.py)
+    * 삽입정렬 [6-3 InsertionSort.py](/CH6+Sorting/6-3+InsertionSort.py)
+    * 퀵정렬 [6-4 QuickSort.py](/CH6+Sorting/6-4+QuickSort.py)
+    * 계수정렬 [6-6 CountSort.py](/CH6+Sorting/6-6+CountSort(buketSort).py)
+* 위에서 아래로 [6-10 UptoDown.py](/CH6+Sorting/6-10+UptoDown.py)
+* 성적이 낮은 순서로 학생 출력하기 [6-11 StudentScore](/CH6+Sorting/6-11+StudentScore)
+* 두 배열의 원소 교체 [6-12 Trading](/CH6+Sorting/6-12+Trading)
