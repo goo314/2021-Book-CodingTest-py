@@ -55,4 +55,4 @@
     * 이진탐색 [7-2 BinarySearch.py](/CH7+BinarySearch/7-2+BinarySearch.py)
     * ( 빠르게 입력받기 [7-4 ScanInput.py](/CH7+BinarySearch/7-4+ScanInput.py) )
 * 부품 찾기 [7-5 FindSegmant.py](/CH7+BinarySearch/7-5+FindSegmant.py)
-* 떡볶이 떡 만들기 [7-8 Tteokbokki.py](/CH7+BinarySearch/7-8+Tteokbokki.py) # parametricSearch
+* 떡볶이 떡 만들기 [7-8 Tteokbokki.py](/CH7+BinarySearch/7-8+Tteokbokki.py) #parametricSearch
