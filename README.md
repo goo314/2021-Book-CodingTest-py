@@ -46,3 +46,13 @@
 * 위에서 아래로 [6-10 UptoDown.py](/CH6+Sorting/6-10+UptoDown.py)
 * 성적이 낮은 순서로 학생 출력하기 [6-11 StudentScore](/CH6+Sorting/6-11+StudentScore.py)
 * 두 배열의 원소 교체 [6-12 Trading](/CH6+Sorting/6-12+Trading.py)
+
+<hr>
+
+#### CHAPTER 7 BinarySearch
+* 탐색알고리즘
+    * 순차탐색 [7-1 SequeuntialSearch.py](/CH7+BinarySearch/7-1+SequentialSearch.py)
+    * 이진탐색 [7-2 BinarySearch.py](/CH7+BinarySearch/7-2+BinarySearch.py)
+    * ( 빠르게 입력받기 [7-4 ScanInput.py](/CH7+BinarySearch/7-4+ScanInput.py) )
+* 부품 찾기 [7-5 FindSegmant.py](/CH7+BinarySearch/7-5+FindSegmant.py)
+* 떡볶이 떡 만들기 [7-8 Tteokbokki.py](/CH7+BinarySearch/7-8+Tteokbokki.py) # parametricSearch
